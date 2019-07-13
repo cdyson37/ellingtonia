@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ellingtonia.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1924-1930/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1931-1940/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1941-1950/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1951-1960/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1961-1970/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/1971-1974/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ellingtonia.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
